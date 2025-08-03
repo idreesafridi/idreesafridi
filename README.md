@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
-<h3 align="center">Full-Stack Laravel Developer | System Engineer | Based in Riyadh, Saudi Arabia 🇸🇦</h3>
+<h3 align="center">Full-Stack Laravel Developer | Web & System Engineer | Based in Riyadh, Saudi Arabia 🇸🇦</h3>
 
 ---
 
-🔭 I’m currently working at **FREYSSINET Saudi Arabia Co. Ltd.**  
-🌱 I’m expanding skills in **Data Analysis and AI integration**  
-💻 I build robust full-stack Laravel applications with clean code and optimized performance  
-📫 Reach me at **idreesafridi@gmail.com**  
+🔭 Currently working at **FREYSSINET Saudi Arabia Co. Ltd.**  
+🌱 Learning **Data Analysis** and **AI-powered automation in Laravel apps**  
+💻 Building secure, scalable full-stack Laravel applications  
+📫 Contact: **idreesafridi@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/idrees-khan-afridi/) | [GitHub](https://github.com/idreesafridi)
 
 ---
@@ -17,17 +17,27 @@
 **Front-End:** HTML, CSS, Bootstrap, JavaScript, jQuery  
 **Database:** MySQL  
 **Tools:** Git, GitHub, Postman, VS Code, Oracle Cloud  
-**Systems:** Linux & Windows Server Admin, ERP Systems  
+**Systems:** Windows/Linux Server Admin, ERP Systems  
 
 ---
 
-### 🔥 Featured Projects
+### 🚀 Live Projects
 
-- 🏥 [Hospital Management System (Laravel)](https://github.com/idreesafridi/hms-laravel)
-- 🎓 [Learning Management System](https://github.com/idreesafridi/lms-laravel)
-- 🔥 [Fire Safety Management App](https://github.com/idreesafridi/fire-safety)
-- ✍️ [Blog CMS with Admin Panel](https://github.com/idreesafridi/blog-cms)
-- 🛒 Fruit Selling Website (In Progress)
+| Project | Live Link |
+|-------------|----------------------|
+| Reqreate App | [View Live](https://reqreate-be.thebackendprojects.com/) 
+| SCU App | [View Live](https://scu.thebackendprojects.com/) 
+| LMS | [View Live](https://lms.thebackendprojects.com/) 
+
+---
+
+### 🔥 GitHub Projects
+
+- 🏥 [Hospital Management System (Laravel)](https://github.com/idreesafridi/hms-laravel) – 
+- 🎓 [Learning Management System (LMS)](https://github.com/idreesafridi/lms-laravel) – 
+- 💼 [Blog CMS with Admin Panel](https://github.com/idreesafridi/blog-cms)
+- 🛡️ [Fire Safety ERP](https://github.com/idreesafridi/fire-safety) – 
+- 🛒 Fruit Shop (In Development)
 
 ---
 
@@ -40,8 +50,8 @@
 
 ---
 
-### ✅ Currently Working On
+### 🧠 Currently Working On
 
-- 🛍️ Laravel Fruit Shop with Cart and Checkout  
-- 🔄 Migrating Core PHP Projects to Laravel  
-- ⚙️ ERP & System Automation using Laravel APIs  
+- 🛍️ Full Laravel Fruit Store with Cart + Checkout  
+- 🔄 Migrating Legacy PHP Projects to Laravel  
+- 📊 Building Admin Dashboards & Reporting Panels  
